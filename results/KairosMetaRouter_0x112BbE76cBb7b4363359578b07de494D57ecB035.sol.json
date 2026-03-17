@@ -1,0 +1,35 @@
+{
+  "contract_address": "D:\\poly\\Security\\Project\\contracts\\KairosMetaRouter_0x112BbE76cBb7b4363359578b07de494D57ecB035.sol",
+  "file": "contracts\\KairosMetaRouter_0x112BbE76cBb7b4363359578b07de494D57ecB035.sol",
+  "pattern_type": "unknown",
+  "confidence": 0.0,
+  "pattern_extraction": {
+    "key_instruction_delegatecall": false,
+    "storage_implementation_slot": false,
+    "function_upgrade_to": false,
+    "function_fallback": true
+  },
+  "details": {
+    "regex": {
+      "has_delegatecall": false,
+      "has_eip1967_slot": false,
+      "has_implementation_slot": false,
+      "has_eip1967_naming": false,
+      "has_eip1967": false,
+      "has_upgrade_to": false,
+      "has_fallback": true,
+      "proxy_naming_hits": 0,
+      "uups_hits": 0,
+      "transparent_hits": 0,
+      "beacon_hits": 0,
+      "diamond_hits": 0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      }
+    },
+    "ast": null
+  }
+}

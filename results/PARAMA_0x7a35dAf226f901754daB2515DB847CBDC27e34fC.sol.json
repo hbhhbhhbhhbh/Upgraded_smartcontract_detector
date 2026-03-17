@@ -1,0 +1,35 @@
+{
+  "contract_address": "D:\\poly\\Security\\Project\\contracts\\PARAMA_0x7a35dAf226f901754daB2515DB847CBDC27e34fC.sol",
+  "file": "contracts\\PARAMA_0x7a35dAf226f901754daB2515DB847CBDC27e34fC.sol",
+  "pattern_type": "simple_proxy",
+  "confidence": 0.92,
+  "pattern_extraction": {
+    "key_instruction_delegatecall": true,
+    "storage_implementation_slot": true,
+    "function_upgrade_to": false,
+    "function_fallback": true
+  },
+  "details": {
+    "regex": {
+      "has_delegatecall": true,
+      "has_eip1967_slot": true,
+      "has_implementation_slot": true,
+      "has_eip1967_naming": true,
+      "has_eip1967": true,
+      "has_upgrade_to": false,
+      "has_fallback": true,
+      "proxy_naming_hits": 5,
+      "uups_hits": 0,
+      "transparent_hits": 0,
+      "beacon_hits": 0,
+      "diamond_hits": 0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": true,
+        "storage_implementation_slot": true,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      }
+    },
+    "ast": null
+  }
+}

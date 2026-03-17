@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\usc_detector\\tests\\sample_proxy.sol",
+      "file": "usc_detector\\tests\\sample_proxy.sol",
+      "pattern_type": "standard_proxy_eip1967",
+      "confidence": 0.75,
+      "details": {
+        "regex": {
+          "has_delegatecall": true,
+          "has_eip1967_slot": true,
+          "has_eip1967_naming": true,
+          "has_eip1967": true,
+          "proxy_naming_hits": 4,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0
+        },
+        "ast": null
+      }
+    }
+  ],
+  "count": 1
+}

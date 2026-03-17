@@ -1,0 +1,35 @@
+{
+  "contract_address": "D:\\poly\\Security\\Project\\contracts\\USDT_0x93e1C723BDe8d926EeE17ccF4CBFa9e31d864f58.sol",
+  "file": "contracts\\USDT_0x93e1C723BDe8d926EeE17ccF4CBFa9e31d864f58.sol",
+  "pattern_type": "unknown",
+  "confidence": 0.0,
+  "pattern_extraction": {
+    "key_instruction_delegatecall": false,
+    "storage_implementation_slot": false,
+    "function_upgrade_to": false,
+    "function_fallback": false
+  },
+  "details": {
+    "regex": {
+      "has_delegatecall": false,
+      "has_eip1967_slot": false,
+      "has_implementation_slot": false,
+      "has_eip1967_naming": false,
+      "has_eip1967": false,
+      "has_upgrade_to": false,
+      "has_fallback": false,
+      "proxy_naming_hits": 0,
+      "uups_hits": 0,
+      "transparent_hits": 0,
+      "beacon_hits": 0,
+      "diamond_hits": 0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": false
+      }
+    },
+    "ast": null
+  }
+}

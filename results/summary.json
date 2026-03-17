@@ -1,0 +1,355 @@
+{
+  "results": [
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\AmlokProjectWallet_0xca26Ca1Bb613e87da105c68d49379503175989E5.sol",
+      "file": "contracts\\AmlokProjectWallet_0xca26Ca1Bb613e87da105c68d49379503175989E5.sol",
+      "pattern_type": "unknown",
+      "confidence": 0.0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": false
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": false,
+          "has_eip1967_slot": false,
+          "has_implementation_slot": false,
+          "has_eip1967_naming": false,
+          "has_eip1967": false,
+          "has_upgrade_to": false,
+          "has_fallback": false,
+          "proxy_naming_hits": 0,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": false,
+            "storage_implementation_slot": false,
+            "function_upgrade_to": false,
+            "function_fallback": false
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\FLASHUSDT_0xb831d416080d4C3c68E8B94Db2E28B9065603365.sol",
+      "file": "contracts\\FLASHUSDT_0xb831d416080d4C3c68E8B94Db2E28B9065603365.sol",
+      "pattern_type": "unknown",
+      "confidence": 0.0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": false,
+          "has_eip1967_slot": false,
+          "has_implementation_slot": false,
+          "has_eip1967_naming": false,
+          "has_eip1967": false,
+          "has_upgrade_to": false,
+          "has_fallback": true,
+          "proxy_naming_hits": 0,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": false,
+            "storage_implementation_slot": false,
+            "function_upgrade_to": false,
+            "function_fallback": true
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\FlashUSDT_0xE6FE49D43a542bc1A34bCd12Cda95fE1476478a0.sol",
+      "file": "contracts\\FlashUSDT_0xE6FE49D43a542bc1A34bCd12Cda95fE1476478a0.sol",
+      "pattern_type": "unknown",
+      "confidence": 0.0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": false,
+          "has_eip1967_slot": false,
+          "has_implementation_slot": false,
+          "has_eip1967_naming": false,
+          "has_eip1967": false,
+          "has_upgrade_to": false,
+          "has_fallback": true,
+          "proxy_naming_hits": 0,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": false,
+            "storage_implementation_slot": false,
+            "function_upgrade_to": false,
+            "function_fallback": true
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\KairosMetaRouter_0x112BbE76cBb7b4363359578b07de494D57ecB035.sol",
+      "file": "contracts\\KairosMetaRouter_0x112BbE76cBb7b4363359578b07de494D57ecB035.sol",
+      "pattern_type": "unknown",
+      "confidence": 0.0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": false,
+          "has_eip1967_slot": false,
+          "has_implementation_slot": false,
+          "has_eip1967_naming": false,
+          "has_eip1967": false,
+          "has_upgrade_to": false,
+          "has_fallback": true,
+          "proxy_naming_hits": 0,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": false,
+            "storage_implementation_slot": false,
+            "function_upgrade_to": false,
+            "function_fallback": true
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\LiquidityBootstrapVault_0xE1FEfaEF3633bAAaD6004803e23D72a1F09c5095.SOL",
+      "file": "contracts\\LiquidityBootstrapVault_0xE1FEfaEF3633bAAaD6004803e23D72a1F09c5095.SOL",
+      "pattern_type": "unknown",
+      "confidence": 0.0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": false
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": false,
+          "has_eip1967_slot": false,
+          "has_implementation_slot": false,
+          "has_eip1967_naming": false,
+          "has_eip1967": false,
+          "has_upgrade_to": false,
+          "has_fallback": false,
+          "proxy_naming_hits": 0,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": false,
+            "storage_implementation_slot": false,
+            "function_upgrade_to": false,
+            "function_fallback": false
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\PARAMA_0x7a35dAf226f901754daB2515DB847CBDC27e34fC.sol",
+      "file": "contracts\\PARAMA_0x7a35dAf226f901754daB2515DB847CBDC27e34fC.sol",
+      "pattern_type": "simple_proxy",
+      "confidence": 0.92,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": true,
+        "storage_implementation_slot": true,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": true,
+          "has_eip1967_slot": true,
+          "has_implementation_slot": true,
+          "has_eip1967_naming": true,
+          "has_eip1967": true,
+          "has_upgrade_to": false,
+          "has_fallback": true,
+          "proxy_naming_hits": 5,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": true,
+            "storage_implementation_slot": true,
+            "function_upgrade_to": false,
+            "function_fallback": true
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\TokenProxy_0x30c82DeF1b7AfE86b60FF9cE2fB35aE5019AC119.sol",
+      "file": "contracts\\TokenProxy_0x30c82DeF1b7AfE86b60FF9cE2fB35aE5019AC119.sol",
+      "pattern_type": "simple_proxy",
+      "confidence": 0.92,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": true,
+        "storage_implementation_slot": true,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": true,
+          "has_eip1967_slot": true,
+          "has_implementation_slot": true,
+          "has_eip1967_naming": true,
+          "has_eip1967": true,
+          "has_upgrade_to": false,
+          "has_fallback": true,
+          "proxy_naming_hits": 2,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": true,
+            "storage_implementation_slot": true,
+            "function_upgrade_to": false,
+            "function_fallback": true
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\Token_0x28Dc4639AB667C3bCAB3E1dd53EDd672B7D166F3.sol",
+      "file": "contracts\\Token_0x28Dc4639AB667C3bCAB3E1dd53EDd672B7D166F3.sol",
+      "pattern_type": "unknown",
+      "confidence": 0.0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": false,
+          "has_eip1967_slot": false,
+          "has_implementation_slot": false,
+          "has_eip1967_naming": false,
+          "has_eip1967": false,
+          "has_upgrade_to": false,
+          "has_fallback": true,
+          "proxy_naming_hits": 0,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": false,
+            "storage_implementation_slot": false,
+            "function_upgrade_to": false,
+            "function_fallback": true
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\Token_0xeB17eCcb7a458164b9450e02DE837505E68473Ed.sol",
+      "file": "contracts\\Token_0xeB17eCcb7a458164b9450e02DE837505E68473Ed.sol",
+      "pattern_type": "unknown",
+      "confidence": 0.0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": true
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": false,
+          "has_eip1967_slot": false,
+          "has_implementation_slot": false,
+          "has_eip1967_naming": false,
+          "has_eip1967": false,
+          "has_upgrade_to": false,
+          "has_fallback": true,
+          "proxy_naming_hits": 0,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": false,
+            "storage_implementation_slot": false,
+            "function_upgrade_to": false,
+            "function_fallback": true
+          }
+        },
+        "ast": null
+      }
+    },
+    {
+      "contract_address": "D:\\poly\\Security\\Project\\contracts\\USDT_0x93e1C723BDe8d926EeE17ccF4CBFa9e31d864f58.sol",
+      "file": "contracts\\USDT_0x93e1C723BDe8d926EeE17ccF4CBFa9e31d864f58.sol",
+      "pattern_type": "unknown",
+      "confidence": 0.0,
+      "pattern_extraction": {
+        "key_instruction_delegatecall": false,
+        "storage_implementation_slot": false,
+        "function_upgrade_to": false,
+        "function_fallback": false
+      },
+      "details": {
+        "regex": {
+          "has_delegatecall": false,
+          "has_eip1967_slot": false,
+          "has_implementation_slot": false,
+          "has_eip1967_naming": false,
+          "has_eip1967": false,
+          "has_upgrade_to": false,
+          "has_fallback": false,
+          "proxy_naming_hits": 0,
+          "uups_hits": 0,
+          "transparent_hits": 0,
+          "beacon_hits": 0,
+          "diamond_hits": 0,
+          "pattern_extraction": {
+            "key_instruction_delegatecall": false,
+            "storage_implementation_slot": false,
+            "function_upgrade_to": false,
+            "function_fallback": false
+          }
+        },
+        "ast": null
+      }
+    }
+  ],
+  "count": 10
+}

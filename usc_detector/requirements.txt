@@ -1,0 +1,15 @@
+# USC Detector - Upgradeable Smart Contract Detector
+# Python 3.8+
+
+# AST parsing: requires solc (solcx installs it)
+py-solc-ast>=1.0.0   # Solidity AST parser (import: solcast)
+py-solc-x>=1.0.0     # Compile Solidity to get AST (import: solcx)
+
+# Optional: full static analysis
+# slither-analyzer>=0.10.0
+
+# Testing (auto-run against contracts/)
+pytest>=7.0.0
+
+# Utilities
+pathlib2>=2.3.7; python_version < "3.4"
